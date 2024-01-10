@@ -1,0 +1,74 @@
+.button{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    justify-content: center;
+
+
+}
+.but{
+    border: 0ch;
+    font-size: larger;
+    outline: none;
+    font-family: system-ui;
+    padding-top: 1rem
+}
+.fore{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    justify-content: center;
+
+}
+
+.sun{
+    height: 200px;
+    width: auto;
+    padding-top: 5rem;
+}
+.temp{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    justify-content: center;
+    font-size: xxx-large;
+    font-family: system-ui;
+    padding-top: 2rem;
+
+}
+.types{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    font-size: xxx-large;
+    font-family: system-ui;
+    padding-top: 2rem;
+
+
+}
+.details{
+    padding-top: 2rem;
+    display: flex;
+    margin: auto;
+    width: 100%;
+    justify-content: center;
+
+}
+.detail{
+    display: block;
+    justify-content: center;
+    padding: 1rem;
+    margin: 0 2rem;
+}
+.pic{
+    height: 50px;
+}
+.para{
+    font-size: x-large;
+}
+.bar{
+    padding-top: 1rem;
+    display: flex;
+    height: 2rem;
+    justify-content: center;
+}
